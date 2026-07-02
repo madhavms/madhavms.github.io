@@ -12,7 +12,7 @@ Replace the borrowed Bedimcode "Alexa" template (generic marketing copy that doe
 - **Approach:** Rebuild from scratch. Drop the Bedimcode template, Swiper, and Unicons dependencies.
 - **Aesthetic:** Minimal / technical. Dark-first, terminal-adjacent. Near-black background, one restrained accent color, generous whitespace. Monospace (JetBrains Mono / IBM Plex Mono) for labels/accents + clean sans (Inter) for prose. Subtle scroll motion; respects `prefers-reduced-motion`.
 - **Emphasis:** Impact & experience (Experience is the centerpiece).
-- **Profile photo:** Yes — small photo in hero (`assets/img/profile.jpg`).
+- **Profile photo:** Yes — small photo in hero (`assets/img/portfolio.jpg`).
 - **CV download:** Yes — "Download CV" button linking to `assets/pdf/Madhav-CV.pdf`.
 - **Keep from current setup:** favicons, `site.webmanifest`, light/dark theme toggle (rebuilt cleanly).
 

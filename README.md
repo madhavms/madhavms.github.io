@@ -1,7 +1,26 @@
-# Responsive Portfolio Website Alexa
-## [Watch it on youtube](https://youtu.be/27JtRAI3QO8)
-### Responsive Portfolio Website Alexa
-Responsive Portfolio Website Using Html, Css and JavaScript, With a beautiful user interface. It contains a Header, Home, About, Skills, Qualification, Services, Portfolio, Project in mind, Testimonial, Contact and Footer.
-Don't forget to join the channel for more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
+# madhavms.github.io
 
-![Resume cv](/preview.png)
+Personal portfolio for **Madhav Manohar Suresh** — a software engineer building
+market-risk (VaR) and data-intensive platforms for commodities & energy trading.
+
+A hand-built, single-page site with a minimal / technical aesthetic: dark-first,
+responsive, accessible, with a light/dark theme toggle.
+
+![Portfolio preview](/preview.png)
+
+## Stack
+
+- Static `index.html` — no framework, no build step
+- Custom CSS (`assets/css/styles.css`) with CSS custom properties for theming
+- Vanilla JS (`assets/js/main.js`) — theme toggle, scroll reveal, active-nav, mobile menu
+- Google Fonts: Inter + JetBrains Mono
+
+## Develop
+
+Just open `index.html` in a browser, or serve the folder:
+
+```sh
+python3 -m http.server 8000
+```
+
+Deployed via GitHub Pages.
